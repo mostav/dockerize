@@ -28,5 +28,5 @@ Alpine            |  Apache     |  PHP
     - `nano index.php`
   - add the following instrutions to allow displaying php configuration info 
     - `<?php echo phpinfo();?>`
-  - go again to localhost:8080 then you will see the famous php page
+  - go back to localhost:8080, you will get php info:
 ![](https://i.ibb.co/1T7Gzcg/Screen-Shot-2020-03-22-at-3-33-34-PM.png)
